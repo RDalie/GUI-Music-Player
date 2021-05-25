@@ -1,0 +1,56 @@
+5
+Neil Diamond
+Greatest Hits
+1
+3
+Crackling Rose
+sounds/01-Cracklin-rose.wav
+Soolaimon
+sounds\06-Soolaimon.wav
+Sweet Caroline
+sounds\20-Sweet_Caroline.wav
+images/1.jpg
+Platters
+Greatest Hits
+4
+2
+Twilight Time
+sounds\01-Twilight_Time.wav
+The Great Pretender
+sounds\10-The_Great_Pretender.wav
+images/2.jpg
+Don McClean
+American Pie
+3
+4
+Till Tomorrow
+sounds\01-Till_Tomorrow.wav
+Crossroads
+sounds\02-Crossroads.wav
+Empty Chairs
+sounds\03-Empty_Chairs.wav
+The Grave
+sounds\04-The_Grave.wav
+images/3.jpg
+Carly Simon
+No Secrets
+3
+3
+The Carter Family
+sounds\02-The_Carter_Family.wav
+Your So Vain
+sounds\03-Youre_So_Vain.wav
+Embrace me You Child
+sounds\06-Embrace_Me_You_Child.wav
+images/4.jpg
+Erik Satie 
+Greatest Classical Hits
+2
+3
+Gymnopedie No.1 
+sounds\01-Gymnopedie_No_1.wav
+Gnossienne No.1
+sounds\02-Gnossienne_No_1.wav
+Gymnopedie No.3
+sounds\03-Gymnopedie_No_3.wav
+images/5.jpg
